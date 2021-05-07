@@ -1,0 +1,67 @@
+
+
+.search{
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 30px;
+}
+
+
+.gcse-search{
+  border-radius: 30px;
+}
+
+.gsc-control-cse{
+  border-radius: 40px;
+
+}
+
+
+
+.clock{
+  margin-left: 566px;
+  margin-top: 70px;
+
+}
+
+body{
+  height: 750px;
+}
+
+.tradingview-widget-container{
+  margin-left:-600px;
+  padding-top: 90px;
+  z-index: 2;
+  position: inherit;
+
+}
+
+.Korona{
+  margin-left: 800px;
+  padding-top: 90px;
+  z-index: 1;
+position: absolute;
+
+}
+
+.socialmedia{
+  margin-left: 1200px;
+  margin-bottom: 0px;
+}
+
+.vg{
+  margin-left: 300px;
+  padding-top: 90px;
+  z-index: 1;
+position: absolute;
+}
+
+.weather{
+  margin-left: 300px;
+  padding-top: 90px;
+  z-index: 1;
+
+
+
+}
